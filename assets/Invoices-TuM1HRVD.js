@@ -1,0 +1,1 @@
+import{_ as o,d as t,g as e,t as c,o as n}from"./index-CtPsw2gb.js";const a={},i={class:"w-full flex flex-col max-w-[600px]"},l={class:"flex flex-none mb-[30px]"},_={class:"text-[24px] font-medium"};function r(s,d){return n(),t("div",i,[e("div",l,[e("div",_,c(s.$t("menu.invoices")),1)])])}const x=o(a,[["render",r]]);export{x as default};
